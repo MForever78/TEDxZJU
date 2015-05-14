@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d024062f-549a-4a4e-b552-913a4de7936b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guest/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/index.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/article.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/media.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012-12-1-4.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-12-1-1.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-12-1-2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-12-1-3.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-12-11-2013-winter.md" afterPath="$PROJECT_DIR$/_posts/2013-12-11-2013-winter.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-6-1-TEDxZJU2014summer.md" afterPath="$PROJECT_DIR$/_posts/2014-6-1-TEDxZJU2014summer.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/archive.html" afterPath="$PROJECT_DIR$/_layouts/archive.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="d024062f-549a-4a4e-b552-913a4de7936b" name="Default" comment="News and Guest pages complete">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="skinny-bones-jekyll-master.iws" />
@@ -84,8 +72,8 @@
       <file leaf-file-name="news.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/news.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3914989">
-              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.4614094">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -169,6 +157,7 @@
         <option value="$PROJECT_DIR$/_posts/2014-6-1-TEDxZJU2014summer.md" />
         <option value="$PROJECT_DIR$/news/index.md" />
         <option value="$PROJECT_DIR$/_layouts/news.html" />
+        <option value="$PROJECT_DIR$/_layouts/figure.hmtl" />
       </list>
     </option>
   </component>
@@ -326,6 +315,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="editor.config.accepted" value="true" />
+    <property name="GO_FMT" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -401,14 +391,22 @@
       <option name="number" value="Default" />
       <updated>1431519076228</updated>
     </task>
+    <task id="LOCAL-00001" summary="News and Guest pages complete">
+      <created>1431581715660</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1431581715660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-1020" width="1200" height="1920" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24936387" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24936387" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -437,6 +435,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="News and Guest pages complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="News and Guest pages complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -816,8 +818,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/news.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3914989">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.4614094">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
