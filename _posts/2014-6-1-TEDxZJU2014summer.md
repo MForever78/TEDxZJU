@@ -2,15 +2,15 @@
 layout: news
 title: TEDxZJU 2014 夏季大会
 category: news
-feature: summer-2014.jpg
-summary: |
+excerpt: |
     热，在我们的生活中随处可见，却又被我们漠视。
     今天的热点新闻，一周后就被人们忘记了存在。 人们交往中的热情温馨，被功力、世俗淹没泯灭。
     初入职场的热度万丈，在朝九晚五中打磨的没有了棱角。
     我们总是走的太远，忘记了为什么出发。我们平淡冷漠得消耗着生命的刻度，忘却了生命中无处不在的热度。
+image:
+  feature: 2014-summer-feature.jpg
+  teaser: 2014-summer-teaser.jpg
 ---
-
-![summer-2014](/static/img/summer-2014.jpg)
 
 ## TED、TEDx 与 TEDxZJU
 
