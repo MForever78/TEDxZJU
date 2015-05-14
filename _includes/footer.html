@@ -1,11 +1,15 @@
-<div id="footer">
-  <ul class="is-inline">
-    <li>Contact us</li>
-    <li>Email: <a href="">contact@tedxzju.com</a></li>
-    <li><a href="">新浪微博</a></li>
-    <li><a href="">人人网</a></li>
-  </ul>
-  <div id="rights" class="small">
-    © 2014 TEDxZJU. All rights reserved. This independent TEDx event is operated under license from <a href="http://www.ted.com">TED</a>
-  </div>
-</div>
+<footer role="contentinfo" id="site-footer">
+	<nav role="navigation" class="menu bottom-menu">
+		<ul class="menu-item">
+		{% for link in site.data.footer %}
+      {% if link.url contains 'http' %}
+        {% assign domain = '' %}
+        {% else %}
+        {% assign domain = site.url %}
+      {% endif %}
+			<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+		{% endfor %}
+		</ul>
+	</nav><!-- /.bottom-menu -->
+	<p class="copyright">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.url }}">{{ site.title }}</a> powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>.</p>
+</footer>

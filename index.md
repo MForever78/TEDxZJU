@@ -1,0 +1,25 @@
+---
+layout: home
+permalink: /
+image:
+    feature: banner.jpg
+---
+
+<div class="tiles">
+    <div class="tile">
+        <h2 class="post-title">理想 / IDEAL</h2>
+        <p class="excerpt">这是一个激情奋进的时代，这里有一群击水三千的青年，怀着对人生的不同追求，踏上了一条追寻梦想的旅程。执着、奋斗、希望、阳光，由这些 TEDxZJU 精神元素构成的故事，已然开始</p>
+    </div>
+    <div class="tile">
+        <h2 class="post-title">互助 / HELP</h2>
+        <p class="excerpt">这也是个互助的平台，让本土公益组织帮助更多志同道合的年轻人，将 TED 「Ideas worth spreading 传递优秀思想」的精神传播给浙江大学乃至整个杭州地区有梦想的人</p>
+    </div>
+    <div class="tile">
+        <h2 class="post-title">分享 / SHARE</h2>
+        <p class="excerpt">通过 TEDxZJU 活动的举办，在青年心中播下热爱生命的种子，看到更宽广的世界；为高校中热爱创想、对知识好奇、期望以行动改变世界的人群创造分享与聚首畅谈的机会</p>
+    </div>
+    <div class="tile">
+        <h2 class="post-title">交流 / COMMUNICATION</h2>
+        <p class="excerpt">我们将邀请深受学生们爱戴的智者；勇于创新，追求自己梦想的IT牛人；才华横溢的艺术家、作家；对公益事业充满激情的青年人等各行各业的演讲人，与大家分享各自的梦想和经历</p>
+    </div>
+</div><!-- /.tiles -->
