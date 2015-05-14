@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Guest"
+title: "Volunteer"
 date: 2015-05-14
 modified:
 excerpt:
@@ -11,7 +11,7 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.categories.guest %}
+{% for post in site.categories.volunteer %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
