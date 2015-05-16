@@ -1,12 +1,8 @@
 ---
 layout: news
 title: TEDxZJU 2014 夏季大会
-category: news
-excerpt: |
-    热，在我们的生活中随处可见，却又被我们漠视。
-    今天的热点新闻，一周后就被人们忘记了存在。 人们交往中的热情温馨，被功力、世俗淹没泯灭。
-    初入职场的热度万丈，在朝九晚五中打磨的没有了棱角。
-    我们总是走的太远，忘记了为什么出发。我们平淡冷漠得消耗着生命的刻度，忘却了生命中无处不在的热度。
+category: event
+excerpt:
 image:
   feature: 2014-summer-feature.jpg
   teaser: 2014-summer-teaser.jpg
@@ -14,9 +10,9 @@ image:
 
 ## TED、TEDx 与 TEDxZJU
 
-TED（指technology, entertainment, design在英语中的缩写，即技术、娱乐、设计）是美国的一家私有非营利机构，该机构以它组织的TED大会著称。TED的使命是传播思想。TED相信思想的力量可以改变人们的态度，进而改变他们的人生，最终改变世界。在“传播思想”这一价值的指引下，TED推出了TEDx的项目，由本地 TED 粉丝自愿发起、自行组织，让本地的 TED 粉丝能够聚到一起，共享 TED一刻。
+TED（指 technology, entertainment, design 在英语中的缩写，即技术、娱乐、设计）是美国的一家私有非营利机构，该机构以它组织的TED大会著称。TED的使命是传播思想。TED相信思想的力量可以改变人们的态度，进而改变他们的人生，最终改变世界。在“传播思想”这一价值的指引下，TED推出了TEDx的项目，由本地 TED 粉丝自愿发起、自行组织，让本地的 TED 粉丝能够聚到一起，共享 TED 一刻。
 
-TEDxZJU是TEDx在浙江大学的实践，2010年筹办了首届TEDxZJU，是浙江省内首个TEDx大会。 自2011年夏季以来，TED@ZJU团队先后举办了四届TEDxZJU大会，持有官方TEDx的执照，符合召开大会标准。本届团队成员更是集合了TEDxXihu、TEDxXihuwomen、TEDxHangzhou等多方TEDx活动的志愿者，我们也得到了往届TEDxZJU团队的鼎力支持。
+TEDxZJU是TEDx在浙江大学的实践，2010年筹办了首届 TEDxZJU，是浙江省内首个TEDx大会。 自2011年夏季以来，TED@ZJU团队先后举办了四届TEDxZJU大会，持有官方TEDx的执照，符合召开大会标准。本届团队成员更是集合了 TEDxXihu、TEDxXihuwomen、TEDxHangzhou 等多方TEDx活动的志愿者，我们也得到了往届TEDxZJU团队的鼎力支持。
 
 ## 「热」2014年TEDxZJU夏季大会
 

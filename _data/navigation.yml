@@ -3,16 +3,31 @@
 - title: News
   url: /news/
   excerpt:
-  image:
+  image: news-teaser.jpg
+
+- title: Event
+  url: /event/
+  excerpt:
+  image: event-teaser.jpg
 
 - title: Guest
   url: /guest/
   excerpt:
-  image:
+  image: guest-teaser.jpg
 
 - title: Volunteer
   url: /volunteer/
   excerpt:
-  image:
+  image: volunteer-teaser.jpg
+
+- title: About
+  url: /about/
+  excerpt:
+  image: about-teaser.jpg
+
+- title: Contact
+  url: /contact/
+  excerpt:
+  image: contact-teaser.jpg
 
 
