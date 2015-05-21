@@ -1,0 +1,42 @@
+﻿---
+layout: news
+title: TEDxZJU 2013 夏季大会 「锐」
+category: event
+excerpt:
+image:
+  feature: 2013-summer-feature.jpg
+  teaser: 2013-summer-teaser.jpg
+---
+## 活动时间：
+
+2013年06月02日 13:00~17:10
+
+## 活动地址：
+
+浙江大学紫金港校区 临水报告厅
+
+## 活动主题：「锐」
+
+TED、TEDx 与 TEDxZJUTED（指 technology, entertainment, design 在英语中的缩写，即技术、娱乐、设计）是美国的一家私有非营利机构，该机构以它组织的 TED 大会著称。TED 的使命是传播思想。TED 相信思想的力量可以改变人们的态度，进而改变他们的人生，最终改变世界。在“传播思想”这一价值的指引下，TED 推出了 TEDx 的项目，由本地 TED 粉丝自愿发起、自行组织，让本地的 TED 粉丝能够聚到一起，共享 TED 一刻。
+TEDxZJU 是 TEDx 在浙江大学的实践，2010年筹办了首届 TEDxZJU，是浙江省内首个 TEDx 大会。
+斯坦福中美学生论坛浙大分会（FACES-ZJU）是此次 TEDxZJU 夏季大会的主要运营方，这是一个由斯坦福大学发起的非营利性的学生组织，致力于促进中美现今和未来的领导者之间的平等对话以及基层外交活动，在北大、人大、复旦和浙大建有分会。
+此外，TEDxZJU 2013夏季大会团队成员还有来自工业设计协会和求是潮的 TED 爱好者，我们也得到了往届 TEDxZJU 团队的鼎力支持。
+
+## 演讲嘉宾
+
+Speaker1：猛犸    知名科普作家 
+
+Speaker2：郑筱祥   浙大教授
+ 
+Speaker3：吴钰龙   资深辩论者           
+
+Speaker4：孙正凡   《十万个为什么》编辑 
+
+Speaker5：游识猷    科学松鼠会主编  
+    
+Speaker6：朱仁民   知名艺术家
+ 
+Speaker7：顾智龙   热酷游戏副总裁        
+
+Speaker8：伊一   浙江卫视主持人  
+ 
