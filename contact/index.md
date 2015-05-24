@@ -8,10 +8,10 @@ tags: []
 
 欢迎通过以下方式关注和联系我们：
 
-[官方微博](http://weibo.com/tedxzju)
+<i class="fa fa-weibo"></i> [官方微博](http://weibo.com/tedxzju)
 
-[官方微信号](#)：TEDxZJU
+<i class="fa fa-weixin"></i> [官方微信号](#)：TEDxZJU
 
 ![QRcode]({{ site.url }}/images/qrcode.jpg)
 
-[官方邮箱](mailto://contact@tedxzju.com)
+<i class="fa fa-envelope"></i> [官方邮箱](mailto://contact@tedxzju.com)

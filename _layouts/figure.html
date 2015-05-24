@@ -18,6 +18,9 @@ layout: default
 		</div>
 		<div class="inner-wrap">
 			<div id="content" class="page-content" itemprop="articleBody">
+				{% if page.video %}
+				<iframe class="page-video" src="http://player.youku.com/embed/{{ page.video }}" frameborder=0 allowfullscreen></iframe>
+				{% endif %}
 				{{ content }}
 				<hr />
 				<footer class="page-footer">

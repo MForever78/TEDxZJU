@@ -4,7 +4,7 @@ title: TEDxZJU 2011 冬季大会
 category: event
 excerpt:
 image:
-  feature: 2011-winer-feature.jpg
+  feature: 2011-winter-feature.jpg
   teaser: 2011-winter-teaser.jpg
 ---
 
