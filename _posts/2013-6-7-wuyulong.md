@@ -6,6 +6,7 @@ excerpt: 资深辩论者
 image:
   feature: 2013-summer-wuyulong-feature.jpg
   teaser: 2013-summer-wuyulong-teaser.jpg
+video: XNjUwNjIzMzAw
 ---
 
 

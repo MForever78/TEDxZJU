@@ -6,6 +6,7 @@ excerpt: 城市画报主编
 image:
   feature: 2011-summer-liuqiongxiong-feature.jpg
   teaser: 2011-summer-liuqiongxiong-teaser.jpg
+video: XMjc0MjE0ODMy
 ---
 
 开场的第一个演讲人是来自城市画报的刘琼雄，他演讲的题目是杂志如何新媒体，就他自己所在的城画杂志是如何面对互联网行业媒体大亨的冲击做出应对。通过打造新的媒体平台推行城画人所坚持的理想。

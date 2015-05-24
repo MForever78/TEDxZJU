@@ -6,6 +6,7 @@ excerpt: 浙江大学工业设计工程教授
 image:
   feature: 2011-summer-yingfangtian-feature.jpg
   teaser: 2011-summer-yingfangtian-teaser.jpg
+video: XMjc0MjIwOTUy
 ---
 
 应老师在学校里可谓是风云人物，他那幽默风趣又自信满满的生动演讲风格，一上来就抓住了同学们的注意力。他用三个关于设计的小故事告诉大家创意是如何和产业化结合的，整合科技和设计的力量提升生命的质量是我们应该追求的目标。

@@ -6,6 +6,7 @@ excerpt: 新爵科技CEO
 image:
   feature: 2011-summer-luhaochuan-feature.jpg
   teaser: 2011-summer-luhaochuan-teaser.jpg
+video: XMjc0MjIyNTIw
 ---
 
 上半场的最后一个演讲人陆浩川是毕业于新加坡南洋理工大学的科技创业青年陆浩川

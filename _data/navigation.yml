@@ -1,9 +1,9 @@
 # Site navigation links
 
-- title: News
-  url: /news/
-  excerpt:
-  image: news-teaser.jpg
+# - title: News
+#   url: /news/
+#   excerpt:
+#   image: news-teaser.jpg
 
 - title: Event
   url: /event/

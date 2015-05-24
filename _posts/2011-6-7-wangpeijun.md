@@ -6,6 +6,7 @@ excerpt: 动画《一个关于幻与灭的故事》作者
 image:
   feature: 2011-summer-wangpeijun-feature.jpg
   teaser: 2011-summer-wangpeijun-teaser.jpg
+video: XMjc0MjIzODg0
 ---
 
 第三个演讲人王佩君一开场便用一个原创动画将大家带入了一个梦幻的世界。

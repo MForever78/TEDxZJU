@@ -6,6 +6,7 @@ excerpt: 中国手工业大师 中华老字号「金星铜」创始人
 image:
   feature: 2011-summer-zhubingren-feature.jpg
   teaser: 2011-summer-zhubingren-teaser.jpg
+video: XMjc0MjI0NDc2
 ---
 
 当年达利在杭州办展览，拿出了100件作品来展出。朱老师也拿出100件熔铜艺术品和他对话。朱老今天想和我们讨论如何创造出更好的东西。某年朱老到了布达拉宫，感到非常震撼。好像布达拉宫在向我们招手，有一种灵魂的、契约的感觉，体现出一种中国传统藏族的性格。
