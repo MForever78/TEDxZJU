@@ -4,8 +4,8 @@ title: 黄峰
 category: guest
 excerpt: 唐硕用户体验创始人 UXPA理事会主席
 image:
-  feature: 2011-summer-liuqiongxiong-feature.jpg
-  teaser: 2011-summer-liuqiongxiong-teaser.jpg
+  feature: 2011-summer-huangfeng-feature.jpg
+  teaser: 2011-summer-huangfeng-teaser.jpg
 video: XMjc0MjIwNDU2
 ---
 
